@@ -6,7 +6,7 @@ function Gallery() {
 
 	return (
 		<div className='w-full'>
-			<div className='w-full bg-gray-300 rounded-md mb-24'>
+			<div className='w-full bg-gray-50 rounded-md mb-24'>
 				{!images.length && (
 					<p className='p-8 text-black font-mono'>
 						You don't have any images yet. Start creating by making a query! For

@@ -8,7 +8,7 @@ function Navbar() {
 					<div className='w-full'>
 						<div className='text-white text-md'>
 							This app provides a seamless interface for the Stable Diffusion
-							image generation model. for{" "}
+							image generation model made for{" "}
 							<a
 								className='text-blue-500 font-bold'
 								href='https://www.qura.law'
